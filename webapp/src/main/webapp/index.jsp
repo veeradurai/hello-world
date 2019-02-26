@@ -1,3 +1,3 @@
-<h1> code deplyed from Jenkins to tomcat </h1>
+<h1> code deployed from ansible to tomcat </h1>
 
 
