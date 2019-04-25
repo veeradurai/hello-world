@@ -1,3 +1,3 @@
-<h1>code deployed to tomcat server via ansible</h1>
+<h1>path chnaged and code deployed successfully</h1>
 
 
