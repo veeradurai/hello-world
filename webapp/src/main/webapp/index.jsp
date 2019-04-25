@@ -1,3 +1,3 @@
-<h1>my first CI and CD Job executed successfully</h1>
+<h1>code deployed to tomcat server via ansible</h1>
 
 
