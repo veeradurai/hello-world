@@ -1,1 +1,1 @@
-<h1>welecome to devops</h1>
+<h1>welecome all to devops</h1>
