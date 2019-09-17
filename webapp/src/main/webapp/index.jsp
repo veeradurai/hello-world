@@ -1,1 +1,1 @@
-<h1>Welecomes to devops technology</h1>
+<h1>Welcomes to devops technology</h1>
