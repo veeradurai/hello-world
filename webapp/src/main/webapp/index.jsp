@@ -1,2 +1,2 @@
-<h1>Hello everyone, please learn devops technology</h1>
+<h1>Hello everyone, Welcome to devops</h1>
 
